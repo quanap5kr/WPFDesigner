@@ -1,0 +1,60 @@
+{
+  "ListConnector": [
+    {
+      "ID": 3,
+      "ParentNode": {
+        "$type": "NetworkFlow.Layers.LayerMinPooling3D, NetworkFlow",
+        "seq_id": 1,
+        "OffSetPoint": "61.3,31",
+        "ID": 43,
+        "LayerType": 6,
+        "isDraggable": true,
+        "NameLayer": "MINPOOLING3D",
+        "X": 260.00000000000006,
+        "Y": 136.8,
+        "isDragging": false
+      }
+    },
+    {
+      "ID": 1,
+      "ParentNode": {
+        "$type": "NetworkFlow.Layers.LayerMinPooling3D, NetworkFlow",
+        "seq_id": 0,
+        "OffSetPoint": "92.5,5.40000000000003",
+        "ID": 43,
+        "LayerType": 6,
+        "isDraggable": true,
+        "NameLayer": "MINPOOLING3D",
+        "X": 282.4,
+        "Y": 344.8,
+        "isDragging": false
+      }
+    }
+  ],
+  "Nodes": [
+    {
+      "$type": "NetworkFlow.Layers.LayerMinPooling3D, NetworkFlow",
+      "seq_id": 0,
+      "OffSetPoint": "92.5,5.40000000000003",
+      "ID": 43,
+      "LayerType": 6,
+      "isDraggable": true,
+      "NameLayer": "MINPOOLING3D",
+      "X": 282.4,
+      "Y": 344.8,
+      "isDragging": false
+    },
+    {
+      "$type": "NetworkFlow.Layers.LayerMinPooling3D, NetworkFlow",
+      "seq_id": 1,
+      "OffSetPoint": "61.3,31",
+      "ID": 43,
+      "LayerType": 6,
+      "isDraggable": true,
+      "NameLayer": "MINPOOLING3D",
+      "X": 260.00000000000006,
+      "Y": 136.8,
+      "isDragging": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ListConnector": [],
+  "Nodes": [
+    {
+      "$type": "NetworkFlow.Layers.LayerBatchNormalization, NetworkFlow",
+      "seq_id": 0,
+      "OffSetPoint": "0,0",
+      "ID": 0,
+      "LayerType": 14,
+      "isDraggable": false,
+      "NameLayer": "BATCHNORM",
+      "X": 0.0,
+      "Y": 0.0,
+      "isDragging": false
+    }
+  ]
+}

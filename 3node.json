@@ -1,0 +1,144 @@
+{
+  "ListConnector": [
+    {
+      "ID": 3,
+      "ParentNode": {
+        "$type": "NetworkFlow.Layers.LayerMinPooling2D, NetworkFlow",
+        "seq_id": 0,
+        "OffSetPoint": "75.7,59.8",
+        "ID": 42,
+        "LayerType": 5,
+        "isDraggable": true,
+        "NameLayer": "MINPOOLING2D",
+        "X": 436.79999999999995,
+        "Y": 12.799999999999997,
+        "isDragging": false
+      }
+    },
+    {
+      "ID": 1,
+      "ParentNode": {
+        "$type": "NetworkFlow.Layers.LayerMinPooling3D, NetworkFlow",
+        "seq_id": 1,
+        "OffSetPoint": "98.1,51",
+        "ID": 43,
+        "LayerType": 6,
+        "isDraggable": true,
+        "NameLayer": "MINPOOLING3D",
+        "X": 212.0,
+        "Y": 182.40000000000003,
+        "isDragging": false
+      }
+    },
+    {
+      "ID": 3,
+      "ParentNode": {
+        "$type": "NetworkFlow.Layers.LayerMinPooling2D, NetworkFlow",
+        "seq_id": 0,
+        "OffSetPoint": "75.7,59.8",
+        "ID": 42,
+        "LayerType": 5,
+        "isDraggable": true,
+        "NameLayer": "MINPOOLING2D",
+        "X": 436.79999999999995,
+        "Y": 12.799999999999997,
+        "isDragging": false
+      }
+    },
+    {
+      "ID": 1,
+      "ParentNode": {
+        "$type": "NetworkFlow.Layers.LayerMaxPooling3D, NetworkFlow",
+        "seq_id": 2,
+        "OffSetPoint": "80.5,57.4",
+        "ID": 423,
+        "LayerType": 12,
+        "isDraggable": true,
+        "NameLayer": "MAXPOOLING3D",
+        "X": 546.4,
+        "Y": 220.79999999999998,
+        "isDragging": false
+      }
+    },
+    {
+      "ID": 3,
+      "ParentNode": {
+        "$type": "NetworkFlow.Layers.LayerMinPooling2D, NetworkFlow",
+        "seq_id": 0,
+        "OffSetPoint": "75.7,59.8",
+        "ID": 42,
+        "LayerType": 5,
+        "isDraggable": true,
+        "NameLayer": "MINPOOLING2D",
+        "X": 436.79999999999995,
+        "Y": 12.799999999999997,
+        "isDragging": false
+      }
+    },
+    {
+      "ID": 1,
+      "ParentNode": {
+        "$type": "NetworkFlow.Layers.LayerGRU, NetworkFlow",
+        "seq_id": 3,
+        "OffSetPoint": "67.7,62.2",
+        "ID": 421,
+        "LayerType": 20,
+        "isDraggable": true,
+        "NameLayer": "GRU",
+        "X": 392.00000000000006,
+        "Y": 334.40000000000003,
+        "isDragging": false
+      }
+    }
+  ],
+  "Nodes": [
+    {
+      "$type": "NetworkFlow.Layers.LayerMinPooling2D, NetworkFlow",
+      "seq_id": 0,
+      "OffSetPoint": "75.7,59.8",
+      "ID": 42,
+      "LayerType": 5,
+      "isDraggable": true,
+      "NameLayer": "MINPOOLING2D",
+      "X": 436.79999999999995,
+      "Y": 12.799999999999997,
+      "isDragging": false
+    },
+    {
+      "$type": "NetworkFlow.Layers.LayerMinPooling3D, NetworkFlow",
+      "seq_id": 1,
+      "OffSetPoint": "98.1,51",
+      "ID": 43,
+      "LayerType": 6,
+      "isDraggable": true,
+      "NameLayer": "MINPOOLING3D",
+      "X": 212.0,
+      "Y": 182.40000000000003,
+      "isDragging": false
+    },
+    {
+      "$type": "NetworkFlow.Layers.LayerMaxPooling3D, NetworkFlow",
+      "seq_id": 2,
+      "OffSetPoint": "80.5,57.4",
+      "ID": 423,
+      "LayerType": 12,
+      "isDraggable": true,
+      "NameLayer": "MAXPOOLING3D",
+      "X": 546.4,
+      "Y": 220.79999999999998,
+      "isDragging": false
+    },
+    {
+      "$type": "NetworkFlow.Layers.LayerGRU, NetworkFlow",
+      "seq_id": 3,
+      "OffSetPoint": "67.7,62.2",
+      "ID": 421,
+      "LayerType": 20,
+      "isDraggable": true,
+      "NameLayer": "GRU",
+      "X": 392.00000000000006,
+      "Y": 334.40000000000003,
+      "isDragging": false
+    }
+  ]
+}

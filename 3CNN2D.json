@@ -1,0 +1,374 @@
+{
+  "ListConnector": [
+    {
+      "ID": 3,
+      "ParentNode": {
+        "$type": "NetworkFlow.Layers.LayerCNN2D, NetworkFlow",
+        "seq_id": 0,
+        "LayerSetting": {
+          "$type": "NetworkFlow.LayersSetting.LayerCNN2DSetting, NetworkFlow",
+          "Filters": 3,
+          "KernelSize": {
+            "Item1": 3,
+            "Item2": 3
+          },
+          "Strides": 2,
+          "Padding": 0,
+          "DilationRate": {
+            "Item1": 0,
+            "Item2": 0
+          },
+          "Activation": 0,
+          "UseBias": true,
+          "KernelInitializer": 0,
+          "BiasInitializer": 0,
+          "KernelRegularizer": 0,
+          "BiasRegularizer": 0,
+          "ActivityRegularizer": 0,
+          "KernelConstraint": 0,
+          "BiasConstraint": 0
+        },
+        "OffSetPoint": "96.5,93.4",
+        "ID": 0,
+        "LayerType": 2,
+        "isDraggable": true,
+        "NameLayer": "CNN2D",
+        "X": 275.20000000000005,
+        "Y": 84.0,
+        "isDragging": false
+      }
+    },
+    {
+      "ID": 1,
+      "ParentNode": {
+        "$type": "NetworkFlow.Layers.LayerCNN2D, NetworkFlow",
+        "seq_id": 1,
+        "LayerSetting": {
+          "$type": "NetworkFlow.LayersSetting.LayerCNN2DSetting, NetworkFlow",
+          "Filters": 3,
+          "KernelSize": {
+            "Item1": 3,
+            "Item2": 3
+          },
+          "Strides": 2,
+          "Padding": 0,
+          "DilationRate": {
+            "Item1": 0,
+            "Item2": 0
+          },
+          "Activation": 0,
+          "UseBias": true,
+          "KernelInitializer": 0,
+          "BiasInitializer": 0,
+          "KernelRegularizer": 0,
+          "BiasRegularizer": 0,
+          "ActivityRegularizer": 0,
+          "KernelConstraint": 0,
+          "BiasConstraint": 0
+        },
+        "OffSetPoint": "86.1,72.6",
+        "ID": 0,
+        "LayerType": 2,
+        "isDraggable": true,
+        "NameLayer": "CNN2D",
+        "X": 138.39999999999998,
+        "Y": 326.4,
+        "isDragging": false
+      }
+    },
+    {
+      "ID": 3,
+      "ParentNode": {
+        "$type": "NetworkFlow.Layers.LayerCNN2D, NetworkFlow",
+        "seq_id": 0,
+        "LayerSetting": {
+          "$type": "NetworkFlow.LayersSetting.LayerCNN2DSetting, NetworkFlow",
+          "Filters": 3,
+          "KernelSize": {
+            "Item1": 3,
+            "Item2": 3
+          },
+          "Strides": 2,
+          "Padding": 0,
+          "DilationRate": {
+            "Item1": 0,
+            "Item2": 0
+          },
+          "Activation": 0,
+          "UseBias": true,
+          "KernelInitializer": 0,
+          "BiasInitializer": 0,
+          "KernelRegularizer": 0,
+          "BiasRegularizer": 0,
+          "ActivityRegularizer": 0,
+          "KernelConstraint": 0,
+          "BiasConstraint": 0
+        },
+        "OffSetPoint": "96.5,93.4",
+        "ID": 0,
+        "LayerType": 2,
+        "isDraggable": true,
+        "NameLayer": "CNN2D",
+        "X": 275.20000000000005,
+        "Y": 84.0,
+        "isDragging": false
+      }
+    },
+    {
+      "ID": 1,
+      "ParentNode": {
+        "$type": "NetworkFlow.Layers.LayerCNN2D, NetworkFlow",
+        "seq_id": 2,
+        "LayerSetting": {
+          "$type": "NetworkFlow.LayersSetting.LayerCNN2DSetting, NetworkFlow",
+          "Filters": 3,
+          "KernelSize": {
+            "Item1": 3,
+            "Item2": 3
+          },
+          "Strides": 2,
+          "Padding": 0,
+          "DilationRate": {
+            "Item1": 0,
+            "Item2": 0
+          },
+          "Activation": 0,
+          "UseBias": true,
+          "KernelInitializer": 0,
+          "BiasInitializer": 0,
+          "KernelRegularizer": 0,
+          "BiasRegularizer": 0,
+          "ActivityRegularizer": 0,
+          "KernelConstraint": 0,
+          "BiasConstraint": 0
+        },
+        "OffSetPoint": "55.7,57.4",
+        "ID": 0,
+        "LayerType": 2,
+        "isDraggable": true,
+        "NameLayer": "CNN2D",
+        "X": 468.00000000000006,
+        "Y": 296.0,
+        "isDragging": false
+      }
+    },
+    {
+      "ID": 3,
+      "ParentNode": {
+        "$type": "NetworkFlow.Layers.LayerCNN2D, NetworkFlow",
+        "seq_id": 0,
+        "LayerSetting": {
+          "$type": "NetworkFlow.LayersSetting.LayerCNN2DSetting, NetworkFlow",
+          "Filters": 3,
+          "KernelSize": {
+            "Item1": 3,
+            "Item2": 3
+          },
+          "Strides": 2,
+          "Padding": 0,
+          "DilationRate": {
+            "Item1": 0,
+            "Item2": 0
+          },
+          "Activation": 0,
+          "UseBias": true,
+          "KernelInitializer": 0,
+          "BiasInitializer": 0,
+          "KernelRegularizer": 0,
+          "BiasRegularizer": 0,
+          "ActivityRegularizer": 0,
+          "KernelConstraint": 0,
+          "BiasConstraint": 0
+        },
+        "OffSetPoint": "96.5,93.4",
+        "ID": 0,
+        "LayerType": 2,
+        "isDraggable": true,
+        "NameLayer": "CNN2D",
+        "X": 275.20000000000005,
+        "Y": 84.0,
+        "isDragging": false
+      }
+    },
+    {
+      "ID": 1,
+      "ParentNode": {
+        "$type": "NetworkFlow.Layers.LayerCNN2D, NetworkFlow",
+        "seq_id": 3,
+        "LayerSetting": {
+          "$type": "NetworkFlow.LayersSetting.LayerCNN2DSetting, NetworkFlow",
+          "Filters": 3,
+          "KernelSize": {
+            "Item1": 3,
+            "Item2": 3
+          },
+          "Strides": 2,
+          "Padding": 0,
+          "DilationRate": {
+            "Item1": 0,
+            "Item2": 0
+          },
+          "Activation": 0,
+          "UseBias": true,
+          "KernelInitializer": 0,
+          "BiasInitializer": 0,
+          "KernelRegularizer": 0,
+          "BiasRegularizer": 0,
+          "ActivityRegularizer": 0,
+          "KernelConstraint": 0,
+          "BiasConstraint": 0
+        },
+        "OffSetPoint": "61.3,46.2",
+        "ID": 0,
+        "LayerType": 2,
+        "isDraggable": true,
+        "NameLayer": "CNN2D",
+        "X": 378.40000000000003,
+        "Y": 513.6,
+        "isDragging": false
+      }
+    }
+  ],
+  "Nodes": [
+    {
+      "$type": "NetworkFlow.Layers.LayerCNN2D, NetworkFlow",
+      "seq_id": 0,
+      "LayerSetting": {
+        "$type": "NetworkFlow.LayersSetting.LayerCNN2DSetting, NetworkFlow",
+        "Filters": 3,
+        "KernelSize": {
+          "Item1": 3,
+          "Item2": 3
+        },
+        "Strides": 2,
+        "Padding": 0,
+        "DilationRate": {
+          "Item1": 0,
+          "Item2": 0
+        },
+        "Activation": 0,
+        "UseBias": true,
+        "KernelInitializer": 0,
+        "BiasInitializer": 0,
+        "KernelRegularizer": 0,
+        "BiasRegularizer": 0,
+        "ActivityRegularizer": 0,
+        "KernelConstraint": 0,
+        "BiasConstraint": 0
+      },
+      "OffSetPoint": "96.5,93.4",
+      "ID": 0,
+      "LayerType": 2,
+      "isDraggable": true,
+      "NameLayer": "CNN2D",
+      "X": 275.20000000000005,
+      "Y": 84.0,
+      "isDragging": false
+    },
+    {
+      "$type": "NetworkFlow.Layers.LayerCNN2D, NetworkFlow",
+      "seq_id": 1,
+      "LayerSetting": {
+        "$type": "NetworkFlow.LayersSetting.LayerCNN2DSetting, NetworkFlow",
+        "Filters": 3,
+        "KernelSize": {
+          "Item1": 3,
+          "Item2": 3
+        },
+        "Strides": 2,
+        "Padding": 0,
+        "DilationRate": {
+          "Item1": 0,
+          "Item2": 0
+        },
+        "Activation": 0,
+        "UseBias": true,
+        "KernelInitializer": 0,
+        "BiasInitializer": 0,
+        "KernelRegularizer": 0,
+        "BiasRegularizer": 0,
+        "ActivityRegularizer": 0,
+        "KernelConstraint": 0,
+        "BiasConstraint": 0
+      },
+      "OffSetPoint": "86.1,72.6",
+      "ID": 0,
+      "LayerType": 2,
+      "isDraggable": true,
+      "NameLayer": "CNN2D",
+      "X": 138.39999999999998,
+      "Y": 326.4,
+      "isDragging": false
+    },
+    {
+      "$type": "NetworkFlow.Layers.LayerCNN2D, NetworkFlow",
+      "seq_id": 2,
+      "LayerSetting": {
+        "$type": "NetworkFlow.LayersSetting.LayerCNN2DSetting, NetworkFlow",
+        "Filters": 3,
+        "KernelSize": {
+          "Item1": 3,
+          "Item2": 3
+        },
+        "Strides": 2,
+        "Padding": 0,
+        "DilationRate": {
+          "Item1": 0,
+          "Item2": 0
+        },
+        "Activation": 0,
+        "UseBias": true,
+        "KernelInitializer": 0,
+        "BiasInitializer": 0,
+        "KernelRegularizer": 0,
+        "BiasRegularizer": 0,
+        "ActivityRegularizer": 0,
+        "KernelConstraint": 0,
+        "BiasConstraint": 0
+      },
+      "OffSetPoint": "55.7,57.4",
+      "ID": 0,
+      "LayerType": 2,
+      "isDraggable": true,
+      "NameLayer": "CNN2D",
+      "X": 468.00000000000006,
+      "Y": 296.0,
+      "isDragging": false
+    },
+    {
+      "$type": "NetworkFlow.Layers.LayerCNN2D, NetworkFlow",
+      "seq_id": 3,
+      "LayerSetting": {
+        "$type": "NetworkFlow.LayersSetting.LayerCNN2DSetting, NetworkFlow",
+        "Filters": 3,
+        "KernelSize": {
+          "Item1": 3,
+          "Item2": 3
+        },
+        "Strides": 2,
+        "Padding": 0,
+        "DilationRate": {
+          "Item1": 0,
+          "Item2": 0
+        },
+        "Activation": 0,
+        "UseBias": true,
+        "KernelInitializer": 0,
+        "BiasInitializer": 0,
+        "KernelRegularizer": 0,
+        "BiasRegularizer": 0,
+        "ActivityRegularizer": 0,
+        "KernelConstraint": 0,
+        "BiasConstraint": 0
+      },
+      "OffSetPoint": "61.3,46.2",
+      "ID": 0,
+      "LayerType": 2,
+      "isDraggable": true,
+      "NameLayer": "CNN2D",
+      "X": 378.40000000000003,
+      "Y": 513.6,
+      "isDragging": false
+    }
+  ]
+}

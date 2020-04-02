@@ -1,0 +1,17 @@
+{
+  "ListConnector": [],
+  "Nodes": [
+    {
+      "$type": "NetworkFlow.Layers.LayerDropOut, NetworkFlow",
+      "seq_id": 0,
+      "OffSetPoint": "0,0",
+      "ID": 1,
+      "LayerType": 13,
+      "isDraggable": false,
+      "NameLayer": "DROPOUT",
+      "X": 0.0,
+      "Y": 0.0,
+      "isDragging": false
+    }
+  ]
+}

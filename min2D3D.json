@@ -1,0 +1,29 @@
+{
+  "ListConnector": [],
+  "Nodes": [
+    {
+      "$type": "NetworkFlow.Layers.LayerMinPooling2D, NetworkFlow",
+      "seq_id": 0,
+      "OffSetPoint": "84.5,59",
+      "ID": 42,
+      "LayerType": 5,
+      "isDraggable": true,
+      "NameLayer": "MINPOOLING2D",
+      "X": 229.60000000000002,
+      "Y": 16.0,
+      "isDragging": false
+    },
+    {
+      "$type": "NetworkFlow.Layers.LayerMinPooling3D, NetworkFlow",
+      "seq_id": 1,
+      "OffSetPoint": "64.5,58.2",
+      "ID": 43,
+      "LayerType": 6,
+      "isDraggable": true,
+      "NameLayer": "MINPOOLING3D",
+      "X": 233.60000000000002,
+      "Y": 114.40000000000002,
+      "isDragging": false
+    }
+  ]
+}
